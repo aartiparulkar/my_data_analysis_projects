@@ -7,7 +7,7 @@ Each project focuses on a different dataset and explores unique patterns, trends
 
 ## 📂 Projects
 ## 📜 Table of Contents
-1. [Netflix Data Visualization](Netflix/) – [Details](#-Netflix-Data-Visualization)
+1. [Netflix Data Visualization](Netflix/)
 
 
 ### 1️⃣ Netflix Data Visualization
